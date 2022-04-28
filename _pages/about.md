@@ -2,23 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student @ <a href='https://www.inf.uni-hamburg.de/en.html'>Department of Informatics</a>, <a href='https://www.uni-hamburg.de/en.html'>University of Hamburg</a> • Research Associate @ <a href='https://www.hitec-hamburg.de/'>HITeC e.V.</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Vogt-Kölln-Str. 30</p>
+    <p>22527 Hamburg, Germany</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, thanks for stopping by! 👋👋👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I'm a PhD student at the [SEMS Group](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) of University of Hamburg, under the supervision of [Prof. Dr. Ricardo Usbeck](https://www.inf.uni-hamburg.de/en/inst/ab/sems/people/ricardo-usbeck.html), working on problems at the intersection of AI x Language. My research interests are mainly in question answering systems, deep learning, federated learning, reinforcement learning and knowledge graphs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I enjoy doing sports (mostly running, cycling, basketball and swimming), traveling with friends and family. 
